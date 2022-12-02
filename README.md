@@ -1,4 +1,4 @@
-## Rainy Data. 
+## Facial Recognition. 
 
 The script tracks my face from
 frame to frame and puts a red box around it. I am currently
